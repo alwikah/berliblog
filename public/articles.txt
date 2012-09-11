@@ -1,8 +1,27 @@
 ===title===
-Article test 1
+Un blog pour être exposée au regard des autres
 ===body===
-Body article 1 test : ceci est un text tape parfaitement au hasard, et sans
-accents pourle moment oui oui oui
+<p>
+L'important c'est de ne surtout pas avoir peur de la simplicité. De s'en
+féliciter, puis de rajouter de nouveaux éléments toujours très simples, et
+d'arriver à quelque chose qui soit équilibré. 
+</p>
+<p>
+L'important, c'est de bien utiliser tout ce qui me motive, tout ce qui peut me
+faire avancer. Ce blog, c'est une façon pour moi de passer un contrat avec
+ceux qui me liront. Une façon de me rappeler à moi-même mes engagements en en
+faisant part à l'extérieur.
+</p>
+<p>
+J'ai décidé d'avancer par itérations simplissimes. C'est pourquoi ce blog
+n'est pour l'instant qu'une ébauche, ne contenant que l'essentiel: son titre,
+et la liste des articles présents, chaque article étant simplement composé
+d'un titre et d'un texte.
+</p>
+<p>
+Mon objectif pour la fin de la semaine : qu'il soit mis en ligne, lu par au
+moins trois personnes. Ce sera la version 1.0 de BerliBlog.
+</p>
 ===title===
 Article test 2
 ===body===
