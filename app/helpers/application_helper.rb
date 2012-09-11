@@ -9,7 +9,7 @@ module ApplicationHelper
 		    if(line =~ /===title===/)
 			is_title=true 
 			is_body=false
-			unless(body == "")
+			unless(body.blank?)
                             articles << Article.new(title,body)
 			    title=""
 			    body=""
@@ -22,6 +22,9 @@ module ApplicationHelper
 		    elsif(is_title)
 	      	        title << line		    
 		    end	    
+		end
+		unless(title.blank? || body.blank?)
+		    articles << Article.new(title,body)
 		end
 	    end
 	    articles

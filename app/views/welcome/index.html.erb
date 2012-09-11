@@ -1,8 +1,10 @@
-<p>La première version de ce blog, réalisé en utilisant vim.
-OUI OUI OUI</p>
+<h1>BerliBlog</h1>
 
-<ul>
 <% @articles.each do |article| %>
-	<li><%= article.title %></li>	
+	<div class='article'>
+		<h2><%= article.title %></h2>
+		<div class="article_body">
+			<%= article.body %>
+		</div>
+	</div>
 <% end %>
-</ul>
