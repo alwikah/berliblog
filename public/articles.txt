@@ -1,0 +1,15 @@
+===title===
+Article test 1
+===body===
+Body article 1 test : ceci est un text tape parfaitement au hasard, et sans
+accents pourle moment oui oui oui
+===title===
+Article test 2
+===body===
+Deuxieme article : on fait gaffe parce qu'il pourrait y avoir des problemes
+avec le deuxieme non ?
+===title===
+Article test 3
+===body===
+Celui la c'est vraiment pour etre sur mais si les deux autres passent il n'y a
+pas de raison pour que cela ne soit pas le cas pour celui la !
