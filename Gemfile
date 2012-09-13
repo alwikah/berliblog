@@ -16,7 +16,7 @@ gem 'therubyracer', :platforms => :ruby
 
   gem 'uglifier', '>= 1.0.3'
 end
-
+gem 'pg'
 gem 'jquery-rails'
 
 # To use ActiveModel has_secure_password
