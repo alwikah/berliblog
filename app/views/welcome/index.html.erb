@@ -1,10 +1,11 @@
 <h1>BerliBlog</h1>
-
+<hr />
 <% @articles.each do |article| %>
 	<div class='article'>
 		<div class='article_title'><%= article.title %></div>
 		<div class='article_body'>
 			<%== article.body %>
 		</div>
+		<hr />
 	</div>
 <% end %>
