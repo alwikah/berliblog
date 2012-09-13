@@ -1,4 +1,28 @@
 ===title===
+13 septembre 2012
+===body===
+<p>
+J'ai finalement atteint aujourd'hui l'un de mes objectifs de la semaine :
+mettre en ligne ce blog. Evidemment, le design est quelque peu... mmh...
+simple ? C'est normal ! J'applique un principe qui me paraît particulièrement
+efficace, voir vital pour le bon déroulement d'un projet : mieux vaut avoir
+peu de choses, mais que ces choses soient fonctionnelles et utilisées, plutôt
+que de construire quelque chose de très compliqué mais pour lequel on ne
+montre jamais rien au monde sous prétexte que "ce n'est pas encore terminé".
+</p>
+<p>
+Au moment même où j'écris ce post, je pense que je vais ensuite m'efforcer de
+réaliser une version un peu plus agréable visuellement de ce blog. Ajouter des
+éléments simples qui apportent plus de lisibilité, un côté plus agréable à
+BerliBlog.
+</p>
+<p>
+Petite réflexion personnelle du moment : si l'on galère pour trouver quoi
+écrire ensuite, mieux vaut simplement arrêter d'écrire.
+</p>
+<p>
+Sur ce, bisous et bonne journée à tous !</p>
+===title===
 Un blog pour être exposée au regard des autres
 ===body===
 <p>
@@ -22,13 +46,4 @@ d'un titre et d'un texte.
 Mon objectif pour la fin de la semaine : qu'il soit mis en ligne, lu par au
 moins trois personnes. Ce sera la version 1.0 de BerliBlog.
 </p>
-===title===
-Article test 2
-===body===
-Deuxieme article : on fait gaffe parce qu'il pourrait y avoir des problemes
-avec le deuxieme non ?
-===title===
-Article test 3
-===body===
-Celui la c'est vraiment pour etre sur mais si les deux autres passent il n'y a
-pas de raison pour que cela ne soit pas le cas pour celui la !
+
