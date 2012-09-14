@@ -1,4 +1,80 @@
 ===title===
+C'est ta dernière chance, rvm...
+===body===
+<p>
+Un peu naïvement, j'ai pensé hier que passer à zsh (j'utilisais bash) était une bonne idée. Je ne m'attendais certainement pas à perdre quatre heures de ma vie à me battre avec des installations et des configurations que je ne comprends pas.
+</p>
+<p>
+Déjà, une fois le paquet zsh installer, je run 'chsh -s /bin/zsh'. Jusque là, pas de problème. Ensuite, comme spécifié partout, je relance mon terminal... qui s'ouvre sous bash... 
+</p>
+<p>
+Bon bon bon...
+</p>
+<p>
+Après de multiples manipulations et recherches sur le net, j'abandonne. Arrive le soir, j'éteins mon petit netbook sous Ubuntu pour lui faire passer une nuit sereine.
+</p>
+<p>
+Le lendemain matin (aujourd'hui donc), je rallume mon ordinateur et ai la bonne surprise de constater que mon shell par défaut est maintenant zsh. Cool ! 
+</p>
+<p>
+En fait relancer le terminal n'est pas suffisant, il faut carrément redémarrer la machine. J'imagine que c'est spécifique Ubuntu.
+</p>
+<p>
+Je pense même à rajouter la fameuse ligne dans le fichier .zshrc qui load rvm au lancement du terminal.
+</p>
+<p>
+L'âme aventureuse, je cd dans mon répertoire de projet et tente un 'rails server'.
+</p>
+<p>
+Malheureuse ! Quelle idée !
+</p>
+<p>
+Le terminal commence à m'insulter... Je ne m'énerve pas, et vais faire un tour du côté des gemsets. Etrangement, sur les trois que j'avais définis, il n'y en a plus aucun... 
+</p>
+<p>
+Je vous épargne toutes les recherces, les tentatives de créations de gemsets par défaut, le tout se soldant finalement par la désinstallation violente et totale de rvm, pour reprendre à zéro. 
+</p>
+<p>
+Observations et conclusion : c'est la troisième ou quatrième fois que j'installe rvm, sous Mac ou sous Ubuntu. A chaque fois cette installation prend plus de temps que prévu, et surtout me coûte beaucoup en charge nerveuse (« P***** de B***** de M****, pourquoi ça marche paaaaas !!! »). 
+</p>
+<p>
+La prochaine fois que je passe plus de cinq minutes à régler un problème lié à rvm, je passe à rbenv : http://www.techubhq.com/articles/curiousg/gestion-des-versions-de-ruby-avec-rbenv-et-ruby-build
+</p>
+<p>
+Et dernière conclusion : lorsque quelqu'un me dit quelque chose comme « pourquoi t'utilises pas trucsuperchouettedelamortquitue ? C'est vachement mieux que autretrucquituemoinsmaisquimesuffitlargement », je réfléchirai à deux fois avant de me lancer dans le changement de mon environnement de travail. Après tout, bash est moins fancy que zsh, mais ça ne me dérangeait absolument pas pour ce que je faisais. 
+</p>
+<p>
+En plus j'ai découvert en cherchant sur le net que rvm + zsh + Ubuntu = mal absolu. Enfin visiblement pour le moment du moins. 
+</p>
+===title===
+14 Septembre 2012
+===body===
+<h3>Bonjour !</h3>
+<p>
+Ce matin, en descendant dans la rue pour aller chercher des pains au chocolat et du jus d'abricot, j'ai croisé tous les gens pressés d'un matin de semaine : le travailleur avec sa sacoche noire et son imperméable gris, la maman fatigué qui traîne son fils à l'école, un cartable plus gros que lui sur le dos, l'étudiant pas encore remis de la soirée précédente, etc...
+</p>
+<p>
+Moi, j'étais à peine réveillée dans mon gros pull informe, les cheveux en bataille, et je savais que je n'avais à affronter le froid que les quelques minutes nécessaires pour faire l'aller-retour boulangerie-appartement.
+</p>
+<p>
+En remontant, je me suis faite la réflexion que j'avais de la chance.
+</p>
+<hr/>
+<h3>BerliBlog</h3>
+<p>
+Je pense que je vais rajouter une barre latérale où je listerai mes projets en cours, et les livres que je suis en train de lire ainsi que ceux que je compte lire. Il faudrait que je rajoute également une présentation. 
+</p>
+<p>
+Je pense que je vais aussi m'attaquer à la rédaction d'articles techniques. Par exemple, l'asset pipeline : c'est un sujet qui est encore assez flou, et rien de mieux pour se clarifier les idées que d'expliquer quelque chose qu'on ne comprend pas bien.
+</p>
+<h3>EasyPlan</h3>
+<p>
+J'ai commencé hier à intégrer FullCalendar, un plugin javascript permettant de générer un calendrier GoogleAgenda like. Sous licence MIT, c'est un add-on très pratique et très simple à utiliser. D'autre part, la documentation est particulièrement bien faite, ce qui est un indicateur très puissant de l'état du code. Mon objectif pour aujourd'hui : arriver à passer les problèmes d'asset pipeline en production (sur Heroku), et pouvoir créer des événements sur le-dit agenda.
+</p>
+<p>
+J'attends les fichiers de maman pour avoir une idée précise de quoi faire après.
+</p>
+===title===
 13 septembre 2012
 ===body===
 <p>
