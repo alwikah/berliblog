@@ -1,28 +1,18 @@
 #    Postgresql database.yml file
 common: &common
+  encoding: utf8
   adapter: postgresql
-  username: 'berliblog'
-  password: 'berliblog'
-  host: localhost
   pool: 5
+  host: localhost
 
 development:
   <<: *common
-  adapter: postgresql
-  username: 'berliblog'
-  password: 'berliblog'
   database: berliblog_development
 
 test:
   <<: *common
-  adapter: postgresql
-  username: 'berliblog'
-  password: 'berliblog'
   database: berliblog_test
 
 production:
   <<: *common
-  adapter: postgresql
-  username: 'berliblog'
-  password: 'berliblog'
   database: berliblog_production
